@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+#pinkish{
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#div_one{
+  color: RGB(42, 58, 161);
+  font-size: 36px;
+}
+
+#div_two{
+  background-color: RGB(66, 245, 129);
+  font-size: 24px;
+  font-weight: bold;
+}
