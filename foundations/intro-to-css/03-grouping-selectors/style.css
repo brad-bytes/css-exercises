@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+body{
+  background-color: #424242;
+}
+
+.pri_btn, .sec_btn {
+  color: #fff;
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", "sans-serif";
+}
+
+.pri_btn{
+  background-color: #000;
+}
+
+.sec_btn{
+  background-color: #FFEB3B;
+}
+
